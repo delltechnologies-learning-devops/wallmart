@@ -3,4 +3,3 @@ python developers
 PAVAN
 HARI
 CODE WITH HARRY
-APPLIED AI COURSE
